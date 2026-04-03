@@ -62,7 +62,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Feedback
 
-We welcome feedback and suggestions! Feel free to create an issue if you have any questions, or contact us directly at [faizankhanofficial71@gmail.com].
+We welcome feedback and suggestions! Feel free to create an issue if you have any questions, or contact us directly at [yogeshvyas.1394@gmail.com].
 
 ## Acknowledgments
 
