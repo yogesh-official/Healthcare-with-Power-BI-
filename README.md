@@ -75,11 +75,11 @@ We welcome feedback and suggestions! Feel free to create an issue if you have an
 
 1. Create a new file in your repository called `LICENSE`.
 2. Copy the following content into the file:
-
 ```
+
 MIT License
 
-Copyright (c) [year] [Your Name]
+Copyright (c) [2025] [Yogesh]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
